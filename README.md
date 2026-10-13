@@ -130,3 +130,6 @@ Developed as an academic project to demonstrate machine learning-based anomaly d
 ## Disclaimer
 
 This project is an education al prototype. Its results are not intended to replace professional water-network inspection or validated leak-detection systems.
+
+# Smart-Water-Leakage-Detector
+A simulation-based water leakage detection system using Isolation Forest and Streamlit
